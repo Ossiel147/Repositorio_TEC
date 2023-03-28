@@ -1,0 +1,17 @@
+h1{
+    color: red;
+    font-family: Arial;
+    font-size: 50px;
+}
+table{
+    width: 100%;
+}
+body{
+    background-color: rgba(169, 169, 169, 0.543);
+}
+td{
+    font-family: Arial;
+}
+div{
+    text-align: center;
+}
